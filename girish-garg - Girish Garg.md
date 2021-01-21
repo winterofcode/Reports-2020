@@ -7,7 +7,7 @@
 
 The project was an upgrade to the C++ Algorithms section of NeoAlgo. The project aims to have all possible algorithms and data structures implemented in C++ at one place
 
-I am [Girish Garg](https://github.com/xprilion), an undergraduate student from [IEM](https://iem.edu.in/), [Kolkata](https://en.wikipedia.org/wiki/Kolkata), as part of [Winter of Code](https://winterofcode.com/). 
+I am [Girish Garg](https://github.com/gargVader), an undergraduate student from [IEM](https://iem.edu.in/), [Kolkata](https://en.wikipedia.org/wiki/Kolkata), as part of [Winter of Code](https://winterofcode.com/). 
 
 ## Contributions
 
